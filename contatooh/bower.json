@@ -1,0 +1,23 @@
+{
+  "name": "contatooh",
+  "description": "Agenda de contatos",
+  "main": "server.js",
+  "authors": [
+    "Oswaldo Ferreira Abreu"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.2",
+    "angular-route": "^1.6.3",
+    "bootstrap": "^3.3.7"
+  }
+}
